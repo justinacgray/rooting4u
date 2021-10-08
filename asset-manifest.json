@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rooting4u/static/css/main.4e13adf9.chunk.css",
+    "main.js": "/rooting4u/static/js/main.b39cc023.chunk.js",
+    "main.js.map": "/rooting4u/static/js/main.b39cc023.chunk.js.map",
+    "runtime-main.js": "/rooting4u/static/js/runtime-main.6696e58e.js",
+    "runtime-main.js.map": "/rooting4u/static/js/runtime-main.6696e58e.js.map",
+    "static/js/2.f4da2ca8.chunk.js": "/rooting4u/static/js/2.f4da2ca8.chunk.js",
+    "static/js/2.f4da2ca8.chunk.js.map": "/rooting4u/static/js/2.f4da2ca8.chunk.js.map",
+    "index.html": "/rooting4u/index.html",
+    "static/css/main.4e13adf9.chunk.css.map": "/rooting4u/static/css/main.4e13adf9.chunk.css.map",
+    "static/js/2.f4da2ca8.chunk.js.LICENSE.txt": "/rooting4u/static/js/2.f4da2ca8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rooting4u/static/media/pexels-762679.b760f476.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6696e58e.js",
+    "static/js/2.f4da2ca8.chunk.js",
+    "static/css/main.4e13adf9.chunk.css",
+    "static/js/main.b39cc023.chunk.js"
+  ]
+}
